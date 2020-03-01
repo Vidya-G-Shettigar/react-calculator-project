@@ -1,0 +1,17 @@
+.display {
+    height: 190px;
+    border-radius: 20px;
+    padding-right: 30px;
+    text-align: right;
+    color: rgb(106, 187, 207);
+}
+
+.display-expression {
+    font-size: 35px;
+    padding-top: 10px;
+}
+
+.display-value {
+    font-size: 70px;
+    padding-top: 20px;
+}
